@@ -1,0 +1,109 @@
+*
+{
+    margin: 0;
+    padding: 0;
+   
+}
+
+label{
+    border-bottom: 1px solid rgb(74, 75, 77);
+}
+
+fieldset
+{
+    color: black;
+}
+body
+{
+    background-image: url("https://favim.com/pd/s9/orig/131217/beautiful-dark-flowers-grunge-Favim.com-1153954.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.div1.div2
+{
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20211212/pngtree-line-art-of-flowers-and-leaves-on-dark-color-background-image_919328.png");
+}
+
+input
+{
+    border: 1px solid black;
+    border-radius: 4px;
+  
+}
+input:hover
+{
+    box-shadow: 2px 2px 4px rgb(73, 194, 254);
+   
+}
+
+
+button:hover{
+    background-color: rgb(41, 106, 227);
+}
+
+.fieldset
+{
+    width: 270px ;
+    height: 250px;
+    margin-left: 3px;
+    margin-top: 5px;
+}
+
+/* 1ST DIV  STARING*/
+.div1
+{
+    width: 50%;
+    float: left;
+    margin: 100px 50px 30px 300px;
+
+   width: 280px;
+   height: 340px;
+   /* background-color: white; */
+   box-shadow: 1px 1px 18px black;
+   border: 1px solid rgb(82, 81, 81);
+   border-radius:6px ;
+   text-align: left;
+   
+}
+
+
+.button{
+   
+    display: block;
+    margin-top: 2px;
+    margin-left: 8px ;
+    margin-right: 8px;
+    margin-bottom: 2px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 100px ;
+    padding-right: 120px ;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(69, 124, 224);
+   
+}
+/* 1ND DIV ENDING */
+
+/* 2ND DIV STARTING */
+
+
+.div2
+{
+   
+    width: 50%;
+    float: right;
+    margin: 100px 300px 50px 10px;
+   width: 280px;
+   height: 340px;
+   /* background-color: white; */
+   box-shadow: 1px 1px 18px black;
+   border: 1px solid rgb(82, 81, 81);
+   border-radius:6px ;
+   text-align: left;
+   
+}
+
+
+/* 2nd div Ending */
